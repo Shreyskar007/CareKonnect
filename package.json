@@ -1,0 +1,23 @@
+{
+  "name": "carekonnect",
+  "version": "1.0.0",
+  "description": "J-component for Software Engineering",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishithD/CareKonnect.git"
+  },
+  "keywords": [
+    "software",
+    "enginnering"
+  ],
+  "author": "Nishith Dasari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NishithD/CareKonnect/issues"
+  },
+  "homepage": "https://github.com/NishithD/CareKonnect#readme"
+}
