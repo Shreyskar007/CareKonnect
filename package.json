@@ -31,7 +31,10 @@
   },
   "homepage": "https://github.com/NishithD/CareKonnect#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "onchange": "^3.3.0",
+    "parallelshell": "^3.0.2",
+    "rimraf": "^2.6.2"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
