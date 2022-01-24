@@ -5,8 +5,8 @@
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
-    "test" : "echo \"Error: no test specified\" && exit 1",
-    "lite" : "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,15 @@
   },
   "keywords": [
     "software",
-    "enginnering"
+    "enginnering",
+    "care",
+    "konnect",
+    "covid-19",
+    "covid19",
+    "covid",
+    "corona",
+    "coronavirus",
+    "coronavirus19"
   ],
   "author": "Nishith Dasari",
   "license": "MIT",
@@ -24,5 +32,10 @@
   "homepage": "https://github.com/NishithD/CareKonnect#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
   }
 }
